@@ -1,5 +1,5 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp; About Me :
 <p>
   <em>
     I am a Computer Science graduate at <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
