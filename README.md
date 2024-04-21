@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <b>MERN</b> stack.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ibraheemn13-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibraheemn13)
-- 📝 Sometimes I write articles on &nbsp; [![Medium Badge](https://img.shields.io/badge/-ibraheemn13-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ibraheemn13)
+- 📝 Sometimes I write articles on &nbsp; [![Medium Badge](https://img.shields.io/badge/-ibraheemn13-.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ibraheemn13)
 - ⚡ Fun fact: The next time you are using Safari or Firefox and it's running slow, you can say to yourself,<br>"I could've had a V8 (a browser 'engine')". 
 
 <br>
