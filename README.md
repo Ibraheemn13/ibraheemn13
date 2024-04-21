@@ -1,15 +1,15 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-### :woman_technologist: &nbsp; About Me :
+### About Me 
 <p>
   <em>
-    I am a Computer Science graduate at <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
+    I am a Computer Science student at <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
     Curious about <b>AI</b> and <b>machine learning</b>, with a passion for <b>cars</b>.
   </em>  
 </p>
 
 - 🌱 I’m currently learning <b>MERN</b> stack.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ibraheemn13-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibraheemn13)
-- 📝 Sometimes I write articles on &nbsp; [![Medium Badge](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ibraheemn13)
+- 📝 Sometimes I write articles on &nbsp; [![Medium Badge](https://img.shields.io/badge/ibraheemn13-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ibraheemn13)
 - ⚡ Fun fact: The next time you are using Safari or Firefox and it's running slow, you can say to yourself,<br>"I could've had a V8 (a browser 'engine')". 
 
 <br>
@@ -52,7 +52,7 @@
 
 ### 📊 Profile Stats
 <div align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iem-saad&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemn13&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
